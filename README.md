@@ -39,7 +39,7 @@ mv NdLinear ndlinear
 Run the script with default parameters:
 
 ```bash
-python ndcnn_cifar10.py
+python main.py
 ```
 
 ### Model Architecture
